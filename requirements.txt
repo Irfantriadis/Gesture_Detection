@@ -21,7 +21,7 @@ jsonschema-specifications==2025.9.1
 kiwisolver==1.4.9
 MarkupSafe==3.0.3
 matplotlib==3.10.8
-mediapipe==0.10.9
+mediapipe
 narwhals==2.14.0
 numpy==2.2.6
 opencv-contrib-python==4.12.0.88
@@ -50,3 +50,4 @@ typing_extensions==4.15.0
 tzdata==2025.3
 urllib3==2.6.2
 watchdog==6.0.0
+
